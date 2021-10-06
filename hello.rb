@@ -2,7 +2,7 @@
 
 # puts "Hello World!"
 
-# Lesson 2: Prompting User Input
+# Lesson 2: Prompting User Input testing 
 
 # name = gets
-# puts "Hey, #{name}! Nice to meet you!"
+# puts "Hey, #{name}! Nice to meet you!, ello"
